@@ -8,6 +8,7 @@ Frontend Development <br>
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/yup-8DD6F9?style=for-the-badge&logo=yup&logoColor=black)
+![Yup](https://img.shields.io/badge/yup-8DD6F9?style=for-the-badge&logo=yup&logoColor=black)
+![Formik](https://img.shields.io/badge/Formik-8DD6F9?style=for-the-badge&logo=Formik&logoColor=black)
 
 ---
